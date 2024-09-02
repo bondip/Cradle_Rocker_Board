@@ -1,0 +1,6 @@
+Hall Effect - https://www.ti.com/lit/ds/symlink/drv5053.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1723811560753&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fdrv5053
+
+Magnet - https://www.mcmaster.com/5862K425/
+
+Temp Sensor - https://www.digikey.ca/en/products/detail/vishay-beyschlag-draloric-bc-components/PTS060301B100RP100/1666183
+
