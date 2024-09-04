@@ -1,5 +1,6 @@
 {
     "nrf-connect.applications": [
         "${workspaceFolder}\\Firmware\\blinky"
-    ]
+    ],
+    "cmake.sourceDirectory": "C:/Users/Parker/Documents/GitHub/Cradle_Rocker_Board/Firmware/blinky"
 }
